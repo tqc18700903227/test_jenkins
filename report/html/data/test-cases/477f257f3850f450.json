@@ -1,0 +1,66 @@
+{
+  "uid" : "477f257f3850f450",
+  "name" : "TestLogin.test_login2",
+  "fullName" : "scripts.test_login.TestLogin.test_login2",
+  "historyId" : "ebf2f016ca5dc2903bbccc4c87d8cb61",
+  "time" : {
+    "start" : 1552014215292,
+    "stop" : 1552014215294,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x0000019DE42DFF60>\n\n    def test_login2(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_login.py:6: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5GVIRKP"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13844-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login2"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "477f257f3850f450.json",
+  "parameterValues" : [ ]
+}

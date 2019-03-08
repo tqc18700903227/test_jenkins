@@ -1,0 +1,60 @@
+{
+  "uid" : "d187a4ed3d9d5c36",
+  "name" : "TestLogin.test_login3",
+  "fullName" : "scripts.test_login.TestLogin.test_login3",
+  "historyId" : "cede2e7e155eec3e18fdf321f8f66d15",
+  "time" : {
+    "start" : 1552014215295,
+    "stop" : 1552014215295,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5GVIRKP"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "13844-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d187a4ed3d9d5c36.json",
+  "parameterValues" : [ ]
+}
